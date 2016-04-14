@@ -7,7 +7,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Guest {
-
+//new file
 	@Id
 	private Integer id;
 	private String firstName;
